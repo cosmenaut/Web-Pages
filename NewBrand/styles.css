@@ -1,0 +1,129 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+}
+a {
+    font-size: 20px;
+}
+
+#myTopnav {
+    background: #333333ff;
+    display: block;
+    margin: 0px;
+    padding: 20px;
+    position: relative;
+
+}
+h1{
+    font-size: 6vw;
+    font-family: Century Gothic,sans-serif, Helvetica;
+}
+h2{
+    font-size: 4vw;
+    font-family: Century Gothic,sans-serif, Helvetica;
+}
+h3{
+    margin:0;
+    padding: 100px 20px 100px 20px;
+    font-size: 25px;
+    font-family: Century Gothic,sans-serif, Helvetica;
+    text-align: center;
+}
+
+
+p,h1,h2 {
+    color: whitesmoke;
+    float: clear;
+}
+
+}
+#logo{
+    
+}
+
+
+.bg- {
+    background-color: #333333;
+}
+
+
+.navbar-nav {
+    padding-left: 20px;
+}
+
+.navbar-expand-lg {
+    padding: 20px;
+}
+
+#CosmePicture {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.imageContainer {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+.top-left {
+  position:absolute;
+  top: 30%;
+  left: 10%;
+}
+.bottom-left {
+  position:absolute;
+  top: 45%;
+  left: 10%;
+}
+
+#p1 {
+    padding: 0;
+    background: #f8f8f8;
+    color: #333333;
+}
+
+
+
+.container {
+    margin:0;
+    padding: 100px 20px 100px 20px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #333333;
+  padding: 10px;
+}
+.grid-item {
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.icon{
+ width: 20vw;
+ box-shadow: 2px 2px black;
+ background: #505050;
+}
+
+
+.icon:hover{
+    background-color: rgb(0, 0, 0);
+    width: 20.25vw;
+}
+.item1 {
+  grid-column: 1 / span 2;
+  grid-row: 1;
+}
+
+h4 {
+    color:white;
+    font-size: 2.5vw;
+}
+
+

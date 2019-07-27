@@ -1,0 +1,102 @@
+/*
+    E L E M E N T S
+*/
+
+body {
+    font-size: 20px;
+    color: purple;
+    margin: 20px;
+    padding: 10px;
+    font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+    background-image: url(BG1.png);
+
+}
+
+h1,
+h2,
+h3 {
+    color: purple;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    color: purple;
+}
+
+header {
+    border: 8px solid purple;
+    background-color: darkseagreen;
+    border-radius: 0px;
+    color: #0E3D65;
+}
+
+
+header img {
+    box-shadow: none;
+    border-radius: 0px;
+    margin: 8px;
+    width: 140px;
+    float: right;
+}
+
+li {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+pre {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px gray;
+    border: 1px solid black;
+    background-color: #eeeeee;
+}
+
+td {
+    padding-right: 30px;
+}
+
+
+/*
+    C L A S S E S
+*/
+
+.btn {
+    background-color: darkseagreen;
+    border: 5px solid purple;
+    margin: 10px;
+    padding: 10px;
+    color: #0E3D65;
+    font-weight: 900;
+    border-radius: 0px;
+    font-size: 16px;
+}
+
+.card {
+    background-color: darkseagreen;
+    border: 5px solid purple;
+    box-shadow: 2px 2px 5px gray;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 40%;
+}
+
+footer {
+    border: 5px solid purple;
+    background-color: darkseagreen;
+    border-radius: 0px;
+    color: #0E3D65;
+}
+
+footer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+
+}

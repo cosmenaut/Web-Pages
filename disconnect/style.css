@@ -1,0 +1,114 @@
+/*
+    E L E M E N T S
+*/
+
+body {
+    font-size: 18px;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    font-family: "Courier New", Helvetica, Arial, sans-serif;
+    background: #f9f9f9ff;
+}
+
+h1,
+h2,
+h3 {
+    color: #0E3D65;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    color: #0E3D65;
+}
+
+header {
+    border: 20px solid #d20000ff;
+    background-color: #f9f9f9ff;
+    border-radius: 0px;
+    color: #0E3D65;
+}
+
+
+header img {
+    box-shadow: none;
+    border-radius: 0px;
+    margin: 20px;
+    margin-bottom: 0px;
+    width: 700px;
+}
+
+li {
+    margin: 10px;
+}
+
+main {
+    padding: 40px;
+}
+
+p {
+    margin: 10px;
+}
+
+pre {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #dddddd;
+    border-left: 4px solid green;
+}
+
+textarea {
+    width: 80%;
+    max-width: 600px;
+    height: 400px;
+}
+
+td {
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+
+/*
+    C L A S S E S
+*/
+
+.btn {
+    background-color: #f9f9f9ff;
+    border: 3px solid #d20000ff;
+    margin: 10px;
+    padding: 10px;
+    color: #00C8C8;
+    font-weight: 900;
+    font-size: 16px;
+}
+.btn:hover {
+  background-color: #d20000ff;
+  border-color: #00C8C8;
+  color: white;
+}
+
+.card {
+    background-color: darkseagreen;
+    border: 5px solid purple;
+    box-shadow: 2px 2px 5px gray;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 40%;
+}
+
+.user {
+    float: right;
+}
+.navbar{
+    background-color: #f9f9f9ff;
+}
